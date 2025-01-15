@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversionAngular", "UnitConversionAngular\UnitConversionAngular.csproj", "{056AF4FB-4333-443E-9909-F9D061C9FC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056AF4FB-4333-443E-9909-F9D061C9FC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056AF4FB-4333-443E-9909-F9D061C9FC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056AF4FB-4333-443E-9909-F9D061C9FC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056AF4FB-4333-443E-9909-F9D061C9FC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648B313B-2969-4E68-94FA-4A7EB3D1280A}
+	EndGlobalSection
+EndGlobal
